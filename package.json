@@ -4,8 +4,8 @@
   "description": "PPSE. Basic HTML Hometask 2",
   "main": "index.js",
   "scripts": {
-    "parsel": "parsel",
-    "test": "npm run parcel src/index.html",
+    "parcel": "parcel",
+    "start": "npm run parcel src/index.html",
     "build": "npm run parcel build src/index.html",
     "release": "node publish"
   },

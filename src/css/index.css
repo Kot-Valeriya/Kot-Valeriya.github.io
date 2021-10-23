@@ -5,3 +5,10 @@
     justify-content: center;
     height: 100vh;
 }
+
+button {
+    border: none;
+    margin: 0;
+    text-decoration: none;
+    background: #fff;
+}

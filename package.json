@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/Kot-Valeriya/Kot-Valeriya.github.io/issues"
   },
-  "homepage": "https://github.com/Kot-Valeriya/Kot-Valeriya.github.io#readme",
+  "homepage": "https://github.com/Kot-Valeriya/Kot-Valeriya.github.io/src/index.html",
   "devDependencies": {
     "gh-pages": "^3.2.3",
     "parcel": "^2.0.0"
